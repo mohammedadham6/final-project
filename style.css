@@ -55,7 +55,7 @@ section {
   min-height:100%;
   display:flex;
   align-items: center;
-  background-image: url("./images/Ocean.jpg");
+  background-image: url("./Ocean.jpg");
   background-size:cover;
   background-position: center;
   background-attachment: fixed;
