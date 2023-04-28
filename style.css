@@ -55,7 +55,7 @@ section {
   min-height:100%;
   display:flex;
   align-items: center;
-  background-image: url("https://github.com/mohammedadham6/final-project/blob/main/Ocean.jpg");
+  background-image: "../Mohammed-Adham-main/ocean.jpg";
   background-size:cover;
   background-position: center;
   background-attachment: fixed;
