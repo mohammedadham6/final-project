@@ -65,7 +65,7 @@ section {
 }
 
 .main h2 {
-  font-weight: 700;
+  font-weight: 600;
   color: #fff;
   font-size: 2.5rem;
   margin-top: 16%;
@@ -79,14 +79,14 @@ section {
   font-size: 3.4rem;
  
   color:#ff0066;
-  font-weight: 700;
+  font-weight: 800;
   margin-left: 120px;
 
 }
 
 .main h3 {
   font-size: 1.7rem;
-  font-weight: 800;
+  font-weight: 700;
   color: #fff;
   letter-spacing: 1.3px;
   margin-top:15%;
