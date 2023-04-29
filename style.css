@@ -68,14 +68,14 @@ section {
   font-weight: 600;
   color: #fff;
   font-size: 2.5rem;
-  margin-top: 18%;
+  margin-top: 16%;
   
 }
 
 
 .main h2 span {
   display: inline-block;
-  margin-top: 12%;
+  margin-top: 15%;
   font-size: 3.4rem;
  
   color:#ff0066;
@@ -89,7 +89,7 @@ section {
   font-weight: 700;
   color: #fff;
   letter-spacing: 1.3px;
-  margin-top:12%;
+  margin-top:15%;
   margin-bottom: 30px;
   margin-left:15px;
 }
@@ -114,7 +114,7 @@ section {
   border-radius: 15px;
   margin-bottom: 40px;
   transition: 0.7s ease;
-  margin-top:10%;
+  margin-top:13%;
   margin-left: 24px;
 }
 
